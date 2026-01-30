@@ -6,9 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=A6ACCD&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Building+Scalable+Backend+Systems;Solving+Problems+One+Bit+at+a+Time;Java+%7C+Spring+%7C+MERN" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=code-a13&label=VIEWS&color=302b63&style=for-the-badge" alt="Profile Views" />
-  </p>
+  
 
 </div>
 
