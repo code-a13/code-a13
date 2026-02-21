@@ -1,94 +1,82 @@
-<div align="center">
+<div align="left">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Aditya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=65&descAlign=50" alt="Aditya's Header" width="100%" />
+<pre>
+   ___      _ _ _             
+  / _ \    | (_) |            
+ / /_\ \ __| |_| |_ _   _  __ _ 
+ |  _  |/ _` | | __| | | |/ _` |
+ | | | | (_| | | |_| |_| | (_| |
+ \_| |_/\__,_|_|\__|\__, |\__,_|
+                     __/ |    
+                    |___/     
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=A6ACCD&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Building+Scalable+Backend+Systems;Solving+Problems+One+Bit+at+a+Time;Java+%7C+Spring+%7C+MERN" alt="Typing SVG" />
-  </a>
+</pre>
 
-  
+<b>SOFTWARE DEVELOPER</b> | <b>PROBLEM SOLVER</b>
 
 </div>
 
 ---
 
-### ⚡ About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
-  <br/>
-  <p style="font-size: 16px; width: 80%;">
-    I am a <strong>Developer</strong> who builds the engine behind the interface. <br/>
-    Focused on <strong>Data Structures</strong>, <strong>API Design</strong>, and <strong>System Efficiency</strong>. <br/>
-
-  </p>
+<div align="left">
+  <h3><code>Tech Stack</code></h3>
 </div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=00ff00"/>
+
+</p>
 
 ---
 
-<h3 align="left">🛠️ The Arsenal </h3>
-
-<div align="center">
-  <table border="0" style="width:100%">
-    <tr align="center">
-      <td width="25%">
-        <img src="https://img.shields.io/badge/Core_Logic-0f0c29?style=for-the-badge&logo=code&logoColor=white" />
-      </td>
-      <td width="25%">
-        <img src="https://img.shields.io/badge/Backend_Ops-302b63?style=for-the-badge&logo=laravel&logoColor=white" />
-      </td>
-      <td width="25%">
-        <img src="https://img.shields.io/badge/Frontend_UI-0f0c29?style=for-the-badge&logo=react&logoColor=white" />
-      </td>
-      <td width="25%">
-        <img src="https://img.shields.io/badge/DevOps_&_DB-302b63?style=for-the-badge&logo=database&logoColor=white" />
-      </td>
-    </tr>
-    <tr align="center">
-      <td width="25%" style="vertical-align: top;">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=java,c,py,js&theme=dark&perline=2" />
-      </td>
-      <td width="25%" style="vertical-align: top;">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express&theme=dark&perline=2" />
-      </td>
-      <td width="25%" style="vertical-align: top;">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=2" />
-      </td>
-      <td width="25%" style="vertical-align: top;">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git&theme=dark&perline=2" />
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <h3><code>Current Execution</code></h3>
 </div>
 
+
+###  Java Deep Dive
+- Strengthening **Core Java fundamentals**
+- Exploring **Spring Boot ecosystem**
+- Understanding **JVM internals, memory management & concurrency**
+- Building REST APIs with proper layering (Controller → Service → Repository)
+
+###  Systems Growth
+- Applying DSA patterns in real backend scenarios
+- Studying low-level design & object modeling
 ---
 
-### 🧩 Problem Solving
+<div align="left">
+  <h3><code>SYSTEM LOGS</code></h3>
+</div>
 
-<div align="center">
-  <br/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-a13&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="48%" />
+</p>
+
+<div align="left">
   <a href="https://leetcode.com/codea13/">
-    <img src="https://leetcard.jacoblin.cool/codea13?theme=tokyonight&font=Space+Mono&ext=heatmap" alt="LeetCode Heatmap" />
+    <img src="https://leetcard.jacoblin.cool/codea13?theme=dark&font=Space+Mono&ext=heatmap" alt="LeetCode Heatmap" />
   </a>
 </div>
+
+<br>
 
 ---
 
-### 🌐 Connect
-
-<div align="center">
-  <br/>
-  <a href="mailto:adityakrishnamoorthi13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-
+<div align="left">
+  <h3><code>Contact</code></h3>
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+  <a href="mailto:adityakrishnamoorthi13@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
