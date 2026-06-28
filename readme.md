@@ -1,14 +1,14 @@
 <div align="center">
 
-<pre style="background-color: rgba(20, 20, 20, 0.8); color: #00ff00; padding: 25px; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.1); font-family: monospace; display: inline-block; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);">
-   ___      _ _ _             
-  / _ \    | (_) |            
+<pre style="background-color: rgba(20, 20, 20, 0.8); color: #00ff00; padding: 25px; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.1); font-family: monospace; display: inline-block; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5); text-align: left; line-height: 1.2;">
+   ___       _ _ _             
+  / _ \     | (_) |            
  / /_\ \ __| |_| |_ _   _  __ _ 
  |  _  |/ _` | | __| | | |/ _` |
  | | | | (_| | | |_| |_| | (_| |
  \_| |_/\__,_|_|\__|\__, |\__,_|
-                     __/ |    
-                    |___/     
+                     __/ |      
+                    |___/       
 </pre>
 
 <br>
@@ -67,7 +67,7 @@
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://github.com/code-a13">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-a13&background=0d0d0d&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=12" height="210" style="border-radius: 12px;" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=code-a13&background=0d0d0d&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=12" height="210" style="border-radius: 12px;" alt="GitHub Streak" />
       </a>
     </td>
     <td align="center" style="border: none; padding: 10px;">
