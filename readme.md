@@ -72,7 +72,7 @@
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <a href="https://leetcode.com/code_a13/">
-        <img src="https://leetcard.jacoblin.cool/codea13?theme=dark&font=Space+Mono&ext=heatmap&radius=12" height="210" style="border-radius: 12px;" alt="LeetCode Heatmap" />
+        <img src="https://leetcard.jacoblin.cool/code_a13?theme=dark&font=Space+Mono&ext=heatmap&radius=12" height="210" style="border-radius: 12px;" alt="LeetCode Heatmap" />
       </a>
     </td>
   </tr>
