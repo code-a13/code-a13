@@ -7,8 +7,8 @@
  |  _  |/ _` | | __| | | |/ _` |
  | | | | (_| | | |_| |_| | (_| |
  \_| |_/\__,_|_|\__|\__, |\__,_|
-                     __/ |      
-                    |___/       
+                    __/ |       
+                   |___/        
 </pre>
 
 <br>
@@ -44,9 +44,9 @@
   <tr>
     <td align="left" width="50%" style="border: none; padding: 20px; background-color: rgba(20, 20, 20, 0.4); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
       <h4 style="margin-top: 0; color: #ff9900;">☕ Java Deep Dive</h4>
-      • Strengthening <b>Core Java</b> fundamentals<br>
-      • Exploring <b>Spring Boot</b> ecosystem<br>
-      • Understanding <b>JVM internals</b> & concurrency<br>
+      • <b>Core Java</b> foundations complete<br>
+      • Exploring <b>Advanced Java</b> architectures<br>
+      • Deep diving into the <b>Spring Boot</b> ecosystem<br>
       • Building layered REST APIs
     </td>
     <td align="left" width="50%" style="border: none; padding: 20px; background-color: rgba(20, 20, 20, 0.4); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
@@ -66,13 +66,15 @@
 <table align="center" style="border-collapse: collapse; border: none; background-color: transparent;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
-      <a href="https://github.com/code-a13">
-        <img src="https://github-readme-streak-stats-kappa-sage.vercel.app?user=code-a13&background=0d0d0d&stroke=ff9900&ring=ff9900&fire=ff9900&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=12&card_width=420&card_height=205" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
       <a href="https://leetcode.com/code_a13/">
         <img src="https://leetcard.jacoblin.cool/code_a13?theme=dark&font=Space+Mono&ext=heatmap&radius=12" height="210" style="border-radius: 12px;" alt="LeetCode Heatmap" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://takeuforward.org/profile/code_a13">
+        <img src="https://img.shields.io/badge/takeUforward-250_Solved-ff9900?style=for-the-badge&logoColor=151515" style="border-radius: 12px;" alt="takeUforward Profile" />
       </a>
     </td>
   </tr>
